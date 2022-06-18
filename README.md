@@ -11,6 +11,8 @@ https://ruana-shopper-back.herokuapp.com/
 O front end foi publicado no surge, no endereço 
 http://ruana-shopper.surge.sh/
 
+A documentação da api pode ser vista em https://documenter.getpostman.com/view/18388041/UzBmLScF
+
 ## Instruções para rodar localmente
 
 ### No terminal, executar os segintes comandos:
