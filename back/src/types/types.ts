@@ -4,3 +4,9 @@ export type Product = {
     price: number,
     qty_stock: number
 }
+
+export type OrderItem = {
+    id: string,
+    prodName: string,
+    amount: number
+}

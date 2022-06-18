@@ -1,7 +1,7 @@
 export default function ErrorPage() {
     return (
         <div>
-            ErrorPage
+            Página não encontrada!
         </div>
     )
 }
