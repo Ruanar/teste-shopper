@@ -18,21 +18,30 @@ git clone https://github.com/Ruanar/teste-shopper.git
 
 ### Back end
 cd back
+
 npm install
 
 ### Front end
 cd .. 
+
 cd front
+
 npm install
 
 ## Para rodar o servidor (back end)
 Crie um arquivo .env e adicione as variáveis de ambiente. São elas:
+
 DB_HOST = host do banco de dados
+
 DB_USER = nome do usuário do banco de dados
+
 DB_PASSWORD = senha de acesso ao banco de dados
+
 DB_SCHEMA = schema do banco de dados
+
 DB_PORT = 3306
 
 rode no terminal o comando
+
 npm run dev
 
